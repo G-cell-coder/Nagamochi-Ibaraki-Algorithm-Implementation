@@ -1,0 +1,2 @@
+# Nagamochi-Ibaraki-Algorithm-Implementation
+an algorithm for computing the connectivity of the given network graph with minimum cut has been implemented and fairly analyzed the relation of computed connectivity (Lambda)  , number of critical nodes with respect to the computed degree of graph  for increasing number edges in the network graph. The project implementation makes the user to understand working method of a revolutionary new edge connectivity algorithm imposed by Hiroshi Nagamochi and Toshihde Ibaraki.
